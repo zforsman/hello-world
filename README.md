@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Yay new repo
+Just make a bunch of stuff up to put here. LEARNING IS FUN AMIRITE!?
